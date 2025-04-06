@@ -18,8 +18,4 @@ Optimizing the code
 
 If you have ideas for improving the bot, feel free to fork the repo and submit a pull request.
 
-📜 License
-
-This project is open-source under the MIT License.
-
 # tic-tac-toe
