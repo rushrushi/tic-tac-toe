@@ -1,21 +1,41 @@
-Tic-Tac-Toe Bot (Version 3)
+# 🎮 Tic Tac Toe — Python AI Edition
 
-🎮 About the Project
+A command-line **Tic Tac Toe** game built with Python, where the opponent isn't just another player — it's a **smart AI bot**. Designed with strong game logic, the bot plays at an *almost unbeatable* level, giving you a real challenge every time.
 
-This is a simple Tic-Tac-Toe game where you can play against a bot. The project was originally created two years ago, and this is the third version. The bot is designed to make strategic moves, providing a fun and challenging gameplay experience.
+---
 
-⚠ Known Issue
+## 🧠 Features
 
-There is a known bug in this version that affects gameplay. I plan to fix this in the next release. Stay tuned for updates!
+- ✅ Single player mode vs intelligent bot
+- 💡 AI makes optimal moves every turn
+- 🎯 Console-based interface (no external libraries required)
+- 🔁 Play as many rounds as you like
+- 📦 Lightweight, fast, and beginner-friendly
 
-🚀 Future Improvements
+---
 
-Fixing the existing bug
+## 🛠 Tech Stack
 
-Optimizing the code
+- **Python 3**
+- Pure CLI (Command Line Interface)
+- Core concepts: game loops, condition checking, basic AI
 
-💡 Contributing
+---
 
-If you have ideas for improving the bot, feel free to fork the repo and submit a pull request.
+## 🚀 How to Run
 
-# tic-tac-toe
+```bash
+git clone https://github.com/rushrushi/tic-tac-toe.git
+cd tic-tac-toe
+python tic_tac_toe.py
+```
+
+---
+
+## 🤖 About the AI
+
+This isn’t your average random bot — the AI uses smart decision-making (likely minimax or rule-based logic) to play almost perfectly, making it tough for even experienced players to win. Think before every move!
+
+---
+## 🙌 Credits
+Made with 💻 and 💡 by [@rushrushi](https://github.com/rushrushi)
