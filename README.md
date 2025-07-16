@@ -27,7 +27,7 @@ A command-line **Tic Tac Toe** game built with Python, where the opponent isn't 
 ```bash
 git clone https://github.com/rushrushi/tic-tac-toe.git
 cd tic-tac-toe
-python tic_tac_toe.py
+python OX_v3_25072023.py
 ```
 
 ---
